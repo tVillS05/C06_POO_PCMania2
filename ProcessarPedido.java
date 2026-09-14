@@ -1,7 +1,8 @@
+package pcmania;
+
 public class ProcessarPedido {
 
-    // método utilitário (helper) estático
-    public static void processar(Computador[] pcs) {
+    public static void processar(Computador[] computadores) {
         System.out.println("Pedido enviado...");
     }
 }
